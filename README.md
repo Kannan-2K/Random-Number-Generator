@@ -8,7 +8,7 @@ A React application demonstrating **state management with `useState`**, **event 
 - **`useState` Hook**:
   - `randomNumber`: Stores the current generated random number (initially `null`).
   - `minRange` & `maxRange`: Stores the customizable range boundaries (defaults to `1` and `100`).
-  - `history`: Tracks recently generated numbers.
+  - `history`: Tracks recently generated numbers
 - **Generate Random Number Button**: Generates a new random number on every click.
 - **Specified Range (1 to 100 default)**: Supports default 1–100 range with customizable min/max inputs and quick preset chips (1–10, 1–50, 1–100, 1–1000).
 - **Conditional Rendering**:
