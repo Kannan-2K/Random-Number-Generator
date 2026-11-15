@@ -19,7 +19,7 @@ A React application demonstrating **state management with `useState`**, **event 
 
 ## How to Run the Project
 
-1. Install dependencies:
+1. Install dependenci
    ```ba
    npm install
    ```
